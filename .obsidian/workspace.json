@@ -32,9 +32,23 @@
               "icon": "lucide-file",
               "title": "Trusted Advisor"
             }
+          },
+          {
+            "id": "ae2931d5c9c915cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/AWS/AWS Managed Services (AMS).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AWS Managed Services (AMS)"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -192,15 +206,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3da98e56749f0017",
+  "active": "be2a842c85f68f0c",
   "lastOpenFiles": [
+    "Programming/AWS/GuardDuty.md",
+    "Programming/AWS/Fargate.md",
+    "Programming/AWS/Identity/IAM Identity Center(SSO).md",
     "Programming/AWS/Migration/Application Migration Service.md",
     "Programming/AWS/AWS CodeDeploy.md",
     "Programming/AWS/Macie.md",
     "Programming/AWS/AWS Secrets Manager.md",
     "Programming/AWS/Amazon Inspector.md",
-    "Programming/AWS/GuardDuty.md",
-    "AWS Managed Services (AMS).md",
+    "Programming/AWS/AWS Managed Services (AMS).md",
     "Programming/AWS/Architecture & Ecosystem/AWS rePOST.md",
     "Programming/AWS/Architecture & Ecosystem/AWS IQ.md",
     "Programming/AWS/Architecture & Ecosystem/AWS Ecosystem.md",
@@ -219,8 +235,6 @@
     "Programming/JS/Hoisting.md",
     "0 - Templates/AWS Study.md",
     "0 - Templates/Untitled.md",
-    "Programming/JS/Closures.md",
-    "Untitled.md",
     "New Text Document.txt",
     "Programming/AWS/Migration",
     "Programming/AWS/Other",
