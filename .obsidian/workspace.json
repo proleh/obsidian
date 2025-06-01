@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Direct Connect(DX).md",
+                "file": "Programming/AWS/Cloud Monitoring/AWS Health Dashboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Direct Connect(DX)"
+              "title": "AWS Health Dashboard"
             }
           }
         ],
@@ -208,8 +208,15 @@
   },
   "active": "ae2931d5c9c915cb",
   "lastOpenFiles": [
-    "Programming/AWS/VPC/VPC(Virtual Private Cloud).md",
+    "Programming/AWS/Cloud Monitoring/CodeGuru.md",
+    "Programming/AWS/Cloud Monitoring/AWS X-Ray.md",
+    "Programming/AWS/Cloud Monitoring/CloudTrail.md",
+    "Programming/AWS/Cloud Monitoring/EventBridge(CloudWatch Events).md",
+    "Programming/AWS/Cloud Monitoring/CloudWatch.md",
+    "Programming/AWS/CloudFront.md",
+    "Programming/AWS/Cloud Monitoring",
     "Direct Connect(DX).md",
+    "Programming/AWS/VPC/VPC(Virtual Private Cloud).md",
     "Programming/AWS/VPC/Site-to-Site VPN.md",
     "Untitled 1.md",
     "Programming/AWS/S3.md",
@@ -230,12 +237,6 @@
     "Programming/AWS/AWS Secrets Manager.md",
     "Programming/AWS/Architecture & Ecosystem/AWS rePOST.md",
     "Programming/AWS/Architecture & Ecosystem/AWS IQ.md",
-    "Programming/AWS/Architecture & Ecosystem/AWS Ecosystem.md",
-    "Programming/AWS/Architecture & Ecosystem/AWS CAF(Cloud Adoption Framework).md",
-    "Programming/AWS/Architecture & Ecosystem/AWS Customer Carbon Footprint Tool.md",
-    "Programming/AWS/Architecture & Ecosystem/AWS Well-Architected Tool.md",
-    "Programming/AWS/Architecture & Ecosystem/6. Sustainability.md",
-    "Programming/AWS/Architecture & Ecosystem/5. Cost Optimization.md",
     "Programming/AWS/Architecture & Ecosystem",
     "New Text Document.txt",
     "Programming/AWS/Migration",
@@ -250,7 +251,6 @@
     "Programming/AWS/0 - IMGs/Amazon EventBridge.png",
     "Pasted image 20250316190435.png",
     "Untitled.canvas",
-    "0 - Templates",
     "Programming/AWS/0 - IMGs/DynamoDB structure.png"
   ]
 }
