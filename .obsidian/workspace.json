@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/JS/Event Delegation.md",
+                "file": "CSS Specificity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Event Delegation"
+              "title": "CSS Specificity"
             }
           },
           {
@@ -208,8 +208,11 @@
   },
   "active": "3da98e56749f0017",
   "lastOpenFiles": [
-    "Programming/JS/Closures.md",
     "Programming/JS/Event Delegation.md",
+    "CSS Specificity.md",
+    "Programming/CSS",
+    "Programming/Untitled.md",
+    "Programming/JS/Closures.md",
     "Untitled 1.md",
     "Programming/AWS/Route 53.md",
     "Programming/JS/Performance/Cache Directives.md",
@@ -225,7 +228,6 @@
     "0 - Templates/Study.md",
     "0 - Templates/AWS Study.md",
     "Programming/AWS/Account Managment, BIlling & Support/Trusted Advisor.md",
-    "Programming/Untitled",
     "Programming/AWS/Cloud Monitoring/AWS Health Dashboard.md",
     "Programming/AWS/Cloud Monitoring/CodeGuru.md",
     "Programming/AWS/Cloud Monitoring/AWS X-Ray.md",
@@ -235,8 +237,6 @@
     "Programming/AWS/CloudFront.md",
     "Programming/AWS/Cloud Monitoring",
     "Programming/AWS/VPC/VPC(Virtual Private Cloud).md",
-    "Programming/AWS/VPC/Site-to-Site VPN.md",
-    "Programming/AWS/S3.md",
     "Programming/AWS/VPC",
     "Programming/AWS/Security & Compliance",
     "Programming/AWS/Architecture & Ecosystem",
