@@ -11,3 +11,13 @@ Its three-column value - ID, CLASS, TYPE.
 - ID - only id selectors -> for each id  +1-0-0.
 - CLASS - class, attributes, pseudo-classes -> for each if the values +0-1-0.
 - TYPE - type\tag selectors `p` , `div` and pseudo-elements `::before` -> for each +0-0-1.
+
+Inline styles beats all of the above.
+`!important` beats all of the above.
+
+What will be the winner
+`.large-text:nth-child(1)`
+vs
+`div h1.large-text::before`
+### Answer
+.large-text:nth-child(1)

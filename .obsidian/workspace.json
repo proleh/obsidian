@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS Specificity.md",
+                "file": "Programming/Network/Resolving Domain Requests.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CSS Specificity"
+              "title": "Resolving Domain Requests"
             }
           },
           {
@@ -208,8 +208,10 @@
   },
   "active": "3da98e56749f0017",
   "lastOpenFiles": [
-    "Programming/JS/Event Delegation.md",
+    "Programming/Network/OSI Layers.md",
+    "Programming/Network/DNS Resolver.md",
     "CSS Specificity.md",
+    "Programming/JS/Event Delegation.md",
     "Programming/CSS",
     "Programming/Untitled.md",
     "Programming/JS/Closures.md",
@@ -221,9 +223,7 @@
     "Programming/JS/Performance",
     "Programming/Network/Resource Hints.md",
     "Programming/JS/Untitled.md",
-    "Programming/Network/OSI Layers.md",
     "Programming/Network/Resolving Domain Requests.md",
-    "Programming/Network/DNS Resolver.md",
     "Programming/Kubernetes.md",
     "0 - Templates/Study.md",
     "0 - Templates/AWS Study.md",
