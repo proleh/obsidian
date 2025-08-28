@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/AWS/Route 53.md",
+                "file": "Programming/JS/Event Delegation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Route 53"
+              "title": "Event Delegation"
             }
           },
           {
@@ -208,9 +208,12 @@
   },
   "active": "3da98e56749f0017",
   "lastOpenFiles": [
+    "Programming/JS/Closures.md",
+    "Programming/JS/Event Delegation.md",
+    "Untitled 1.md",
+    "Programming/AWS/Route 53.md",
     "Programming/JS/Performance/Cache Directives.md",
     "Programming/AWS/VPC/Direct Connect(DX).md",
-    "Untitled.md",
     "Programming/JS/Performance/PerformanceNavigationTiming.md",
     "Programming/JS/Performance",
     "Programming/Network/Resource Hints.md",
@@ -234,10 +237,7 @@
     "Programming/AWS/VPC/VPC(Virtual Private Cloud).md",
     "Programming/AWS/VPC/Site-to-Site VPN.md",
     "Programming/AWS/S3.md",
-    "Programming/AWS/Untitled.md",
     "Programming/AWS/VPC",
-    "Programming/AWS/Security & Compliance/Shared Responsibility.md",
-    "Programming/AWS/Security & Compliance/Security HUB.md",
     "Programming/AWS/Security & Compliance",
     "Programming/AWS/Architecture & Ecosystem",
     "New Text Document.txt",
