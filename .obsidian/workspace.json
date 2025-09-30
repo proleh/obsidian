@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSP.md",
+                "file": "Programming/Databases/ACID.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CSP"
+              "title": "ACID"
             }
           },
           {
@@ -223,12 +223,17 @@
   },
   "active": "1342da9c0c20d285",
   "lastOpenFiles": [
-    "Programming/CSS/CSS Specificity.md",
     "CSP.md",
-    "Programming/Web Vitals/Web Vitals Metrics.md",
-    "Programming/Web Vitals",
+    "Programming/Databases/ACID.md",
+    "Programming/Databases/Untitled.md",
+    "Programming/Databases",
+    "Programming/Network/Resource Hints.md",
+    "Programming/Network/Resolving Domain Requests.md",
     "Programming/Network/OSI Layers.md",
     "Programming/Network/DNS Resolver.md",
+    "Programming/CSS/CSS Specificity.md",
+    "Programming/Web Vitals/Web Vitals Metrics.md",
+    "Programming/Web Vitals",
     "Programming/JS/Event Delegation.md",
     "Programming/CSS",
     "Programming/Untitled.md",
@@ -239,9 +244,7 @@
     "Programming/AWS/VPC/Direct Connect(DX).md",
     "Programming/JS/Performance/PerformanceNavigationTiming.md",
     "Programming/JS/Performance",
-    "Programming/Network/Resource Hints.md",
     "Programming/JS/Untitled.md",
-    "Programming/Network/Resolving Domain Requests.md",
     "Programming/Kubernetes.md",
     "0 - Templates/Study.md",
     "0 - Templates/AWS Study.md",
@@ -250,15 +253,12 @@
     "Programming/AWS/Cloud Monitoring/CodeGuru.md",
     "Programming/AWS/Cloud Monitoring/AWS X-Ray.md",
     "Programming/AWS/Cloud Monitoring/CloudTrail.md",
-    "Programming/AWS/Cloud Monitoring/EventBridge(CloudWatch Events).md",
-    "Programming/AWS/Cloud Monitoring/CloudWatch.md",
     "Programming/AWS/Cloud Monitoring",
     "Programming/AWS/VPC",
     "Programming/AWS/Security & Compliance",
     "Programming/AWS/Architecture & Ecosystem",
     "New Text Document.txt",
     "Programming/AWS/Migration",
-    "Programming/AWS/Other",
     "Pasted image 20250412080333.png",
     "Programming/AWS/0 - IMGs/AWS Resource Access Manager(RAM).png",
     "Programming/AWS/0 - IMGs/Shared Responsibility Model.png",
