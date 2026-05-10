@@ -34,63 +34,21 @@
             }
           },
           {
-            "id": "1342da9c0c20d285",
+            "id": "42190f87dee3c682",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/JS/Asynchronous JS/Code Execution.md",
+                "file": "Programming/Algorithms/Quick Sort.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Code Execution"
-            }
-          },
-          {
-            "id": "99b1df2c3389a4ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - Templates/Study.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Study"
-            }
-          },
-          {
-            "id": "449290b062671e37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/JS/JavaScript.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "JavaScript"
-            }
-          },
-          {
-            "id": "c15773b2d4931313",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/JS/Typescript/Typescript.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Typescript"
+              "title": "Quick Sort"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -147,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "32a150f23061d0c1",
@@ -249,14 +208,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c15773b2d4931313",
+  "active": "42190f87dee3c682",
   "lastOpenFiles": [
+    "Programming/Network/Resolving Domain Requests.md",
+    "Programming/Algorithms/Quick Sort.md",
+    "Programming/Algorithms.md",
+    "Programming/Algorithms",
+    "Programming/AWS/Docker/AWS Docker.md",
+    "Programming/AWS/0 - IMGs/DynamoDB structure.png",
+    "Programming/AWS/0 - IMGs/Amazon EventBridge.png",
     "Programming/JS/Typescript/Type Aliases.md",
     "Programming/JS/Typescript/tsconfig.json.md",
     "Programming/JS/Typescript/Array & Tuples.md",
     "Programming/JS/Typescript/Index Signature.md",
     "Programming/JS/Typescript/Type Guards and Type Narrowing.md",
-    "Programming/Network/Resolving Domain Requests.md",
     "Programming/JS/JavaScript.md",
     "CostExplorer.md",
     "0 - Templates/Study.md",
@@ -276,24 +241,17 @@
     "Programming/Databases",
     "Programming/Network/Resource Hints.md",
     "Programming/Network/OSI Layers.md",
-    "Programming/CSS/CSS Specificity.md",
-    "Programming/Web Vitals/Web Vitals Metrics.md",
     "Programming/Web Vitals",
     "Programming/CSS",
-    "Programming/Untitled.md",
-    "Untitled 1.md",
     "Programming/JS/Performance",
     "Programming/AWS/Cloud Monitoring",
     "Programming/AWS/VPC",
     "Programming/AWS/Security & Compliance",
-    "Programming/AWS/Architecture & Ecosystem",
     "Pasted image 20250412080333.png",
     "Programming/AWS/0 - IMGs/AWS Resource Access Manager(RAM).png",
     "Programming/AWS/0 - IMGs/Shared Responsibility Model.png",
     "Programming/AWS/0 - IMGs/NACL vs Security Groups.png",
-    "Programming/AWS/0 - IMGs/Amazon EventBridge.png",
     "Pasted image 20250316190435.png",
-    "Untitled.canvas",
-    "Programming/AWS/0 - IMGs/DynamoDB structure.png"
+    "Untitled.canvas"
   ]
 }
