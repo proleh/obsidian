@@ -10,23 +10,56 @@ Tags:  #algoritms, #bst
 
 ```
 function dfsIterative(root) {
+	  const res = [];
+
+        const stack = [];
+
+        let cur = root;
+
+  
+
+        while (cur || stack.length) {
+
+            while (cur) {
+
+                stack.push(cur);
+
+                cur = cur.left;
+
+            }
+
+  
+
+            cur = stack.pop();
+
+            res.push(cur.val);
+
+            cur = cur.right;
+
+        }
+
+  
+
+        return res;
+
+}
+
+
+function recursiveDFS(root) {
 	const res = [];
-	const stack = [root];
-	let cur = root;
-	
-	while (cur || stack.length) {
-		while (cur.left) {
-			stack.push(cur);
-			cur = cur.left;
+
+	const inorder = (node) => {
+		if (!node) {
+			return;
 		}
 		
-		const node = stack.pop();
-		if (node.left) stack.push(node.left);
+		inorder(node.left);
 		res.push(node.val);
-		if (node.right) stack.push(node.right);	
+		inorder(node.right);
 	}
 	
+	inorder(root);
+	
 	return res;
-
 }
 ```

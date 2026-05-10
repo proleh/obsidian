@@ -48,12 +48,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Algorithms/BST/DFS.md",
+                "file": "Programming/Algorithms/Binary Search.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DFS"
+              "title": "Binary Search"
             }
           }
         ],
@@ -218,14 +218,17 @@
   },
   "active": "7b16ab573b4ecf60",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Programming/Algorithms/Binary Search.md",
+    "Programming/Algorithms/BST/BFS.md",
+    "Programming/Algorithms/BST/DFS.md",
+    "Programming/Algorithms/BST/Untitled.md",
     "Untitled 2.base",
     "Untitled 1.base",
     "Untitled.base",
     "Untitled 4.base",
     "Untitled 3.base",
     "Programming/Algorithms/Quick Sort.md",
-    "Programming/Algorithms/BST/DFS.md",
-    "Programming/Algorithms/BST/DFS.md",
     "Programming/Algorithms/BST",
     "Pasted image 20260509201740.png",
     "0 - Templates/Study.md",
@@ -253,10 +256,7 @@
     "Programming/JS/Asynchronous JS/Code Execution.md",
     "Programming/JS/Asynchronous JS",
     "Programming/Databases/ACID.md",
-    "Programming/JS/Async.md",
-    "Programming/Databases/Untitled.md",
     "Programming/Databases",
-    "Programming/Web Vitals",
     "Pasted image 20250412080333.png",
     "Programming/AWS/0 - IMGs/AWS Resource Access Manager(RAM).png",
     "Programming/AWS/0 - IMGs/Shared Responsibility Model.png",
