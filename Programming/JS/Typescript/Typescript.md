@@ -6,4 +6,6 @@ Rel:
 Tags: #ts, #FE
 
 
-TypeScript is an open source, typed syntactic superset of JavaScript
+TypeScript is an open source, typed syntactic superset of JavaScript.
+Rel:
+Tags: 
