@@ -48,12 +48,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Algorithms/Binary Search.md",
+                "file": "Programming/Algorithms/BST/DFS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Binary Search"
+              "title": "DFS"
             }
           }
         ],
@@ -218,8 +218,8 @@
   },
   "active": "7b16ab573b4ecf60",
   "lastOpenFiles": [
-    "Untitled.md",
     "Programming/Algorithms/Binary Search.md",
+    "Untitled.md",
     "Programming/Algorithms/BST/BFS.md",
     "Programming/Algorithms/BST/DFS.md",
     "Programming/Algorithms/BST/Untitled.md",
