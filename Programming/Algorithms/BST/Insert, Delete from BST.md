@@ -74,10 +74,10 @@ last repetaed at: 09-05-2026
 			if (!root.left) return root.right;
 			if (!root.right) return root.left;
 			
-			let cur = root;
-			while (cur.right) {
-				cur = cur.right;
-			}
+		    let cur = root.right;
+		    while (cur.left) {
+                cur = cur.left;
+            }
 			
 			root.val = cur.val;
 			root.right = deleteNode(root.right, root.val);
